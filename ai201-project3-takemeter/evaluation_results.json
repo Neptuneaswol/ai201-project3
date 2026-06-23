@@ -1,0 +1,34 @@
+{
+  "baseline_accuracy": 0.9231,
+  "finetuned_accuracy": 0.7436,
+  "improvement": -0.1795,
+  "test_set_size": 39,
+  "label_map": {
+    "substantive": 0,
+    "dismissive": 1,
+    "hype": 2
+  },
+  "model": "distilbert-base-uncased",
+  "confidence_calibration": [
+    {
+      "bucket": "<0.50",
+      "n": 39,
+      "accuracy": 0.7436
+    },
+    {
+      "bucket": "0.50-0.70",
+      "n": 0,
+      "accuracy": null
+    },
+    {
+      "bucket": "0.70-0.85",
+      "n": 0,
+      "accuracy": null
+    },
+    {
+      "bucket": "0.85-1.00",
+      "n": 0,
+      "accuracy": null
+    }
+  ]
+}

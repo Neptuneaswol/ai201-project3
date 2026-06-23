@@ -1,0 +1,572 @@
+﻿"text","label","notes"
+"wonder if AMD's new ai chip can run this with ease? I'm seriously consider buying it. GLM 5.2 is just shy of GPT 5.4 so I would welcome offloading any grunt work locally
+I am very excited for local LLMs I think we may have GPT 5.5-xhigh level of performance for under 2000 EUR
+This should put more pressure on the frontier models to avoid sitting on any fancy stuff and lower token prices as a whole.
+Nothing beats a local LLM disconnected from the cloud.","substantive",""
+"I've always have a deep, instinctive revulsion for smart TVs, but every year I read of some new mandmade horrors beyond comprehension, and it escalates by a few more points.","substantive",""
+"It's not Smart TV apps specifically, it's all free apps. They have to monetize those somehow, don't they? And you get upset when you see ads, don't you?
+Basically it's either this or pay for your apps.","substantive",""
+"a lot of words and no idea of the practical benefit.
+Awesome in the biblical sense.","dismissive",""
+"Interestingly, the pixelization/noise effect is applied clientside, so if you open an image in a new tab, you can see the original. Originals look much better, in my opinion.","substantive",""
+"New dad to an 8.5 month old. It's changed my life in ways I couldn't imagine. It's been hard but so rewarding. Today was my first father's day and it couldn't have been better.
+Happy Fathers Day to all the dads here. And happy Father's Day to my own Dad, who isn't with us anymore, but gave me a great upbringing and lessons I'll carry with me the rest of my life.","substantive",""
+"I work in e-waste recycling. Ever since the TurboQuant paper in March, I haven't been able to sell any DDR3. I'm guessing that the DDR2 and 3 this article is referring to is the actual memory chips, not modules/sticks that servers, desktops, laptops, etc. use, because the latter aren't moving.","substantive",""
+"I have a 2018 Samsung QLED SmartTV, I use Pihole to block data collection and since it has Google DNS hardcoded in it, I use OPNSense Firewall rules to enforce any DNS request to Pihole.
+My TV has only one AD that no longer shows for years now, LG is ADs all over the place. My home setup allows me to have a smartTV without compromises it.
+Since it runs TizenOS, I can use my Linux PC to install remove apps from it like installing Jellyfin App so I do not depend on Samsung releasing it to the app store.","substantive",""
+"Any time I see one of these posts about models of this size a quote comes to mind – ""Your Scientists Were So Preoccupied With Whether Or Not They Could, They Didn’t Stop To Think If They Should"".
+Only a select few have the hardware required to run this to begin with, and even then the forecasted performance makes me wonder if it’s worth it at all.","substantive",""
+"Can't run this myself.
+But I do like Unsloth Studio, quite a lot. It's nicely designed.","hype",""
+"With all due respect, this github repo looks really like an AI-generated project.","dismissive",""
+"I wonder why this doesn't use the 4608x2592 resolution the sensor is capable of.  It produces cropped 2592x2592 images.  Stylistic choice, hopefully not too hard to reconfigure?
+Edit s/camera/sensor/","substantive",""
+"I like the idea .. and believe there’s need for it beyond what Claude or ChatGPT can implicitly offer. Good luck!","hype",""
+"Cyberdecks are nice for photos and build blog posts, but does anyone actually regularly use them?","dismissive",""
+"Just starred it on github ;)
+Looks very good !","hype",""
+"I have had a computer completely get fried when working on something. I did lose the project memory with Claude. Even when everything was in GitHub and was working in OneDrive it still took some time to get Claude up to speed on a second PC. Could see this being helpful.","substantive",""
+"Nobody forces you to use AI.
+It has become sort of junk food for the brain. Temptations and ads for it everywhere.","dismissive",""
+"Did you have your agent talk you into making this something separate over building on top of git?","dismissive",""
+"Phew .... I saw the title and thought this was some horrid LinkedIn post from a ""Founder"" dad about teaching his kids how to pitch their startup to investors ...
+Luckily it's not about that!","substantive",""
+"Do people just not even search their proposed name anymore?","dismissive",""
+"I adore MonoLisa, thank you for all the effort that's gone into making it and congratulations on the new release!","hype",""
+"This really seems like a solution in search of a problem. Maybe it would be useful for pro tour riders, but I would guess it'll be banned as not in the spirit of cycle racing. Recumbents would really change the game in the pro tour for speed but the UCI doesn't allow them for the same reason.","substantive",""
+"Modern SBCs are just normal computers and not ""embedded"" in the traditional sense. You can generally just use Debian, and spend time on the actual project, instead of wrestling with the system","substantive",""
+"Mitchell Hashimoto, talk about putting your money where your mouth is. What a cool dude. Much respect!","hype",""
+"I also started getting them around that time, and it seems unrelated to my usage, eg today I encountered it on the very first prompt of the day after a whole weekend afk.
+(Monday morning Australia time, so it was still Sunday in US)","substantive",""
+"Yes, the planet got destroyed. But for a beautiful moment in time we created a lot of value for shareholders
+- A Microsoft employee 2080","dismissive",""
+"I feel like another comparison worth looking at is purely cost.
+Capability per dollar is something I care about:
+    Opus API    $5/$25
+    Sonnet API  $5/$15
+    Haiku API   $1/$5
+
+    GLM 5.2 API $1.4/$4.4
+
+So you're really getting near opus level capability for the price of haiku.","substantive",""
+"Somebody please donate some tokens to this plucky startup, they need our help.","dismissive",""
+"Mostly I just know Alan Greenspan for being a disciple of Ayn Rand back in the 1950s/60s.  Though the Objectivists didn't like his work at the federal reserve.  In 2008 he admits to being shocked that banks weren't rationally selfish.","substantive",""
+"Why isn't the shifter built with a log2 arrangement, shifting 32-16-8-4-2-1 bits? Takes fewer sub-stages and doesn't require a separate decoder for the input.
+The article mentions it already has a two-stage design, shifting bits and then bytes, so it can't be about shifting more than one bit at a time. Anyone know why?","substantive",""
+"Must…resist…clicking link… I’ve got a lot to today and this is like carefully crafted bait to tie me up for the next 4 hours. :-)","substantive",""
+"I love the idea!
+Took a while for my gf and I to get used to it, but it's so much fun now!","hype",""
+"I want to buy one just to raise the signal that Linux support is important.
+When these machines were announced I switched to Fedora as a daily driver on my high end gaming rig.
+It’s been awesome. I still have to go back to Windows for music production unfortunately. I may switch to Mac for that so I can completely abandon Windows.
+I run an optical HDMI cable from my office to my TV and get to play games and use Linux in 77”.
+Something feels awesome about that.","substantive",""
+"I've been using Octal on iOS and https://github.com/IronsideXXVI/Hacker-News on Mac that was showcased here 4 months ago.
+Got to give you kudos for the Accessibility enablement though - while some  of it is baked-in support, it’s worth appreciating your work in whittling down whatever else can be supported.
+Here is a comparison for the two on Mac, if you're interested. https://gq6o9uxicyzuw8es6qxe78bnml9wc3re.pastehtml.dev/#core","substantive",""
+"The common theme for the discussed symbols is consideration for others.
+In New Zealand we require a yellow [L] sign on cars with learner drivers (with learners drivers licenses). However I get the impression that other drivers are less considerate around a car displaying the [L] sign.
+I suspect New Zealanders are generally far less considerate than Japanese. Politeness avoids a trillion sharp edges.
+We also seem to be copying some of the US predilection of arsehole Ute (pickup) drivers.","substantive",""
+"I share some of the same observations that seem to have motivated this project, but my solution was to just use Alpine on the same architecture as the target (possibly via qemu) and then export a subset of it to a filesystem image.  I implemented it as a perl module collection with no dependencies other than core perl modules, and then run the export from within the image itself.  Among other things, it lets me use strace to find the runtime library dependencies of the things that need to be in the image.
+https://metacpan.org/pod/Sys::Export","substantive",""
+"It sounds like none of the data will be reliable? Ai and community seems like very little will be true and I will have no idea which part will be true.","dismissive",""
+"I could see this being a great activity in a high school civics class. Very creative. One rule that tripped me up is:
+> If two parties tie in a district, nobody wins it.
+This isn't realistic as ties don't happen in practice in elections, and some party will end up representing it. But the spirit of the gerrymandering concept is conveyed well enough.","substantive",""
+"Loved this book.
+https://www.goodreads.com/en/book/show/62008110-in-a-flight-...
+""In this enchanting little book, celebrated physicist Giorgio Parisi guides us through his unorthodox yet exhilarating work, starting with investigating the principles of physics by observing the sophisticated flight patterns of starlings. Studying the movements of these birds, he has realized, proves an illuminating way into understanding complex systems of all kinds - collections of everything from atoms to planets to other animals like ourselves.""","substantive",""
+"Some of the permissions problems related to window.showDirectoryPicker have been frustrating. I'm developing a client-side Python web framework, and during development I need to mount the library locally; I hand off the directory to Pyodide using this API. But that doesn't work in VSCode's internal browser, apparently because the API just simply isn't able to be approved.","substantive",""
+"> A majority of the generation will come from large GE Vernova (NYSE: GEV) turbines and associated electrical infrastructure, with additional capacity provided by Solar Turbines, a wholly owned subsidiary of Caterpillar Inc. (NYSE: CAT).
+When they say ""large GE Verona"", they mean the 7HA. This is an actual power plant with proper emissions controls. Not the aeroderivatives in parking lots we've seen so far.
+> Their plan includes the use of seven U.S.-made GE Vernova Inc. GEV 7HA natural gas turbines to deliver the plant's initial capacity.
+https://finance.yahoo.com/sectors/energy/articles/chevron-mi...","substantive",""
+"I did an inpainting project for a client a few years ago. They were trying to inpaint banner ads for concert promoters, and find a way to make it easy to produce a bunch of different sized ads for a variety of placements. I was tasked with inpainting Xmas themed ad for a few major singers.
+The weirdest thing was when the inpainting tool added strange people to an image. This singer was all decked out in tinsel and red, and the inpainting model added a grumpy old man in a top hat. I don't recall clicking the ""Add creepy old man"" button.
+At the time this was Stable Diffusion on the backend, run by a variety of model hosting services, Amazon being one. They all had different requirements for the input image and that made things really complex. For some the aspect ratio was impossible to meet, and it would fail if the banner was 200x60. For others, you had to resize it before input, which meant you were adding an image with poor resolution to start. Garbage in, garbage out.
+All of this to say, there is a lot of preproduction that went into it, and the client never ended up using my attempts.","substantive",""
+"Chevron and Microsoft agree to keep smoking crack and buy it for each other when needed and not tell anyone.","dismissive",""
+"Zig is really nice. I enjoy using it a lot. Glad to hear that it is getting a little more funding.","hype",""
+"I just implemented bot and crawler detection as well as ASN based blocking for our website, because I’ve seen a massive rise in scraping coming from VPNs and other networks that mix legit and illegitimate traffic to our service. My theory is that small companies are scraping the shit out of everything and selling results to llm creators. It’s going to be interesting to see this expand into residential internet providers through holes like this… wild new world!","substantive",""
+"The same N150 CPU mini PC with 12GB RAM I bought on Amazon a year ago seems to have considerably increased in price, as a result of the RAM price surge... Even though what's soldered onto its motherboard is probably the cheapest possible ddr4-2666 or similar.","substantive",""
+"So friggin’ cool. I think it’s really fun and when you can instantly entice people to click around and explore then you have already succeeded.","hype",""
+"This is a smart thing to ship. For me it would totally be a consideration when deciding on a platform to use.","hype",""
+"I don't see anything particularly special about these symbols. Don't get me wrong, I like Japan but while these icons look nice, don't most symbols already speak without words?","dismissive",""
+"Still got 4x 128MB PC-133 Mosel-Vitelic. I'll be sooo rich soon!1!!","dismissive",""
+"I absolutely adore my 2018 jailbroken LG OLED, although it pains me that everything I love about this TV are features the manufacturer actively discourages and wishes I never had access to.","substantive",""
+"I was never able to get these models to collaborate with me the way Opus does. I'm probably an outliner, I don't one-shot projects, I don't vibe code. I basically use LLMs are if I was working with a coworker, fairly smart one, but with short memory and often missing the big picture. Sometimes I can delegate more, sometimes less, but I know I always have to stay on top of what's happening, because it WILL create mess when it hits something hard. With the Antropic models, this kind of cooperation is easy (with the exception of Opus 4.6, which was bad for some reason).","substantive",""
+"That Windows XP loading bar brings me back. Great job.","hype",""
+"This is impressive! Perhaps this is because I’m from an English-speaking country, but I believe even in the real Criterion Closet, the spine title text orientation is top-to-bottom, rather than bottom-to-top.","substantive",""
+"It can be dormant in adults. I discovered it when I was 16 after meeting a pianist who had it and “taught me” how to do it. I kept getting faster and more accurate as I practiced solfeggio in music school in my 20s.
+Crazy thing is it changes with age. At around 30 I started regressing. These days I identify the tones but shifted by one semitone.","substantive",""
+"Flaws in this test setup:
+  - A zero-shot prompt, run once (in total)
+  - No planning run (which improves output)
+  - Different coding harnesses & system prompts
+  - Unknown provider for GLM (there are 15 different GLM-5.2 providers with varying quality & latency)
+  - No documentation of thinking effort level
+  - No vision model supplement (you can provide a subagent w/a vision model)
+
+You can't take this comparison seriously. There were many different variables, no control, no repeat test. It's as useful a comparison as picking a random tweet with both models' names","substantive",""
+"There are some demo spaces using this. This one seems the best (paint your own mask) but it failed on all the images I tried: https://huggingface.co/spaces/multimodalart/Moebius","substantive",""
+"A few people have suggested adding a blacklist for dangerous directories or validating directories are empty first.
+Why not just make the API create a new directory rather than selecting one? There's still a risk people create a directory in a shared location - but at least they're only risking the new directory then, right?","substantive",""
+"Only thing left is to make a Kanban out of it…","dismissive",""
+"i've been using hackfeed, it does the job.
+make this available on testflight, this looks great, would love to daily drive it.
++1 for the accessibility features, great job!","hype",""
+"I just need to know what happens to our 9am standups in Vancouver when the other team is in SF. If I'm doing the math correctly it moves to 10am.
+Also, I've often picked a random city in Pacific time when setting timezones on hosts, so I guess it's going to cause me some headaches in the fall.","substantive",""
+"You've nailed the feel. Ignore the nay sayers!","hype",""
+"Whenever I see a tz post, I want to remind ya'll that the `tzdata` package is using data from `eggert/tz` by Paul Eggert -- a crazy good UCLA professor. I took his course once and in the exams, he'd like to put in a question he didn't know the answer to himself.","substantive",""
+"I’ve been experimenting with what a next-generation embedded Linux build system might look like: native builds on the target architecture, modern language package managers as first-class citizens, and AI as a primary interface to the system.
+Instead of cross-compiling with a large meta-layer stack, the tool builds kernel, rootfs, and applications together using one engine, with a CLI, TUI, and AI assistant talking to the same core. All you need is the tool, Docker, and Git — no global SDKs or hidden state.
+It’s pre-1.0 and rough around the edges; I’m sharing it early to get feedback from people who live in Yocto/OpenEmbedded, Buildroot, Nix, etc. I’d love to hear where this breaks on your boards, what workflows feel wrong, and whether the “native builds + AI-aware build graph” direction seems promising.","substantive",""
+"> triggering a ""de-fragmentation"" of the available efivar space so that there's enough contiguous space to deploy the update.
+I didn't even realize this could be a problem despite the next paragraph implying it's very well known.","substantive",""
+"This strategy fails for appointments during that hour where the clock goes back: they are ambiguous, can refer to two different moments in time.
+That caveat aside: good.","substantive",""
+"That was fun, got up to 79 :)","hype",""
+"I just took a look and it's really great, it feels like going back in time.","hype",""
+"This is a neat idea. Definitely needs tuning.
+- I tried it on a repo that has very obvious boosting tells, like 99% of stars from week old or less accounts and it had higher trust signal than my own very much so real project. The issue to star ratio gave 5/5 despite the issues being core contributor created.
+- In same vein as above, it seems to prefer open issues over closed ones in the scoring.
+Have you considered scoring contributors/authors/issue creators separately to use as a proxy, instead of measuring the core things that are being gamed?","substantive",""
+"It needs to be said, this is what you get by ""trusting"" Microsoft.
+There really is no need for secure boot in Linux.  The only reason to have it is if you dual boot because M/S says so.  If using Linux by itself, just disable secure boot and have done with it.","substantive",""
+"Oh wow, some of these are better than my Spotify recommendations...","hype",""
+"Forced dark theme -- please don't punish me for having astigmatism--can't do dark mode","dismissive",""
+"i love k9s, it iss the best tui I've seen before the AI era(there are too many TUIs in the AI era, I can't keep up with them)","substantive",""
+"I love the idea .. how you changed an important issue into a game and probably that would bring awareness. I am not an expert but such decisions probably affect a lot of people and no one spend time and learn about it. This is a fun way to learn. Thank you !!","hype",""
+"One thing I'd add: the ""kuuki wo yomu"" concept extends beyond symbols 
+into everyday social cues too. A classic example is the ""genkan"" 
+(entryway) — the slight step-up from outdoor to indoor floor level 
+silently tells you where to remove your shoes, no sign needed. 
+The whole house layout enforces the unspoken rule.
+Train station melody chimes are another great example — they differ 
+by station and line, so locals unconsciously recognize which station 
+they're at by sound alone, without reading anything.
+There are countless other forms of ""reading the air"" throughout 
+Japanese daily life. I'd genuinely recommend visiting Japan once 
+to experience it firsthand.","substantive",""
+"I am using A2A at work. It's a bit like the ""microservices architecture"" for agents... Allows you or teams to develop agents independently and have them interact as and when they need to. No major hurdles so far.","substantive",""
+"I'll just recognise that I'm old (and a bit grumpy): back in the day, if you didn't write minimally efficient code, it simply wouldn't run or it would be terribly slow.
+Young devs have not been exposed to this and they can get away with writing inefficient code most of the time, sometimes all of the time.
+And even if there is a RAM shortage, we are still in the Gigabyte age. So I don't think we will go back to cycle and byte counting.
+I can't even get some devs to care if their query runs in 3s or 8ms.","substantive",""
+"> Summarized thinking provides the full intelligence benefits of extended thinking, while preventing misuse.
+> preventing misuse.
+Imagine not being able to read the tokens you are paying for.","dismissive",""
+"Using dupehound for identifying duplicated code.
+What I use for: I use for identifying duplicated code. It is deterministic, doesn't use AI, offline, runs from CLI and is super fast (and free).
+What I dislike: I won't say it I dislike, but it is not a tool that does all the jobs of a code review. For instance, it doesn't flag security issues. It is superfocused on code duplication (it performs better than Sonar for this use case) and is specifically useful for large codebases. Disclaimer: I am one of the collaborators, so take it with a grain of salt https://github.com/Rafaelpta/dupehound","substantive",""
+"The focus on speed is interesting here, it's something I think less and less about with agents. I'm not waiting for git operations, and at the rate agents run it's just not a major factor. Agentic development is all about throughput, not latency.
+This looks interesting regardless, but I do wonder if the latency focus is the wrong way to sell this.","substantive",""
+"And in the mean time, western europe is having its second heat wave even before summer starts.","dismissive",""
+"I think it makes perfect sense for Zig to have their stand against LLM contributions while consumers of the compiler/Zig project overall use whatever code aids they like. Building a language is not a matter of churning out as much greenfield code as possible, but in careful consideration of whether or not some feature and its implementation fits coherently into the entire overall language. It's upstream of so much, and we now have decades and decades of examples where just letting rip with new additions renders a language schizoid and unergonomic. An LLM's tendency to ""yes, of course, and,"" to any suggestion is not what a healthy language project needs, but it can be tremendously useful for someone employing a balanced and ergonomic language to generate products. I'm glad to see Mitchell keeping a cool head as the unfortunate tendency in so many devs to take sides and get dogmatic plays out yet again.","substantive",""
+"Why do you use a TLD that is commonly blocked?","dismissive",""
+"Major props to Mitchell (and his family) for these donations.","hype",""
+"The logo expressing ""Limited Express"" is very unspecific, imagine if buses with the Mercedes star cost extra and didn't stop at every stop.
+Interesting that a lot of US road signs have words on them: https://ygraph.com/graphs/roadsigns-20120316T030941-ekrruua.... , or are obvious, whereas in Europe drivers need to learn what they mean: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh...
+For example the yield triangle, no stopping and no parking are probably unfamiliar to US drivers.
+Meanwhile all Alfa Romeo Quadrofoglio drivers might be mistaken for drivers with missing limbs in Japan.","substantive",""
+"It’s my first as a father of 4 month old. We have traditionally never celebrated Father’s Day, last few years with social media provenance we started sending wishes on Family WhatsApp group.
+This morning felt very different though. I have been getting used (gladly) to waking up with her smile and today with her holding my finger.
+That was the best gift ever and getting to take photo with her and my dad :)
+Happy Father’s Day","substantive",""
+"Which work has more value: the abstract description of a catalogue of potential model architectures or their validated application trained on real data?
+In the Schmidhuber case their is 20 years and a chain of countless other works in between the two.","substantive",""
+"I rent out tables for local ComicCons.
+Good money in it, but a lot of the people who rent your tables won't keep them clean.","substantive",""
+"The trick to making these problems intuitive is to mentally rewrite them into a ""how many permutations of this string are possible?"" problem. Consider the 2 * 3 case.
+    ...
+    ...
+
+One way you might get there is
+    Right, right, right, down, down
+
+Then you can rewrite this as
+    RRRDD
+
+You will always need 3 R's, and you will always need 2 D's. So how many unique strings can be made with this?
+Well let's actually consider the degenerate cases.
+    ABCDE
+
+there are 5 places A can go, then 4 left B can go, then 3 left C can go, and so on, until we get 5! = 120 possible permutations of ABCDE. If you replace the B with another A to get
+    AACDE
+
+now there are only 60 permutations, because half of the original 120 only differed by where the A and the B were relative to one another. By that same logic,
+    AACCE
+
+has only 30 combinations, and
+    AACCC
+
+has only 10 (seeing why it's 10 and not 20 is actually the trickiest part imo, it's because there are 3! ways to arrange CDE, but only 1 to arrange CCC).
+AACCC is isomorphic to RRDDD, which is how we get 10 possible paths to solve the 2*3 grid. We can check this with the binomial theorem: ((2+3) choose 3) = 10.
+What's nice about this step by step approach is that it generalizes not just to non-square grids, but to multiple dimensions as well! Imagine trying to get from the top of a 3 by 3 by 3 Rubik's cube to the bottom, how do you do that? Well how many ways are there to rewrite
+    AAABBBCCC
+
+? The logic above would suggest 9! / (3! 3! 3!) = 1,680 unique paths. And you can just derive it by starting from the degenerate case and figuring out how to slice things up!","substantive",""
+"Beware the creator of this language doesn't want your contributions. He'll just take some of the code you wrote and pass it off as his own so no one else gets their name on the project.","substantive",""
+"Awesome! I recently replaced Netflix for Criterion so this is quite welcome!","hype",""
+"A kernel that it's primary language is a memory safe one? But other than that  there aren't many reasons that would justify writing from scratch.","substantive",""
+"I wanna suggest it to my mom. 
+she'll definitely love it!","hype",""
+"Maybe tell your agent that your readme doesn't need to be that long so humans can read it and understand it. The Github readme is ludicrously long winded.
+What's the point of this vs telling the agent to just use the cloudflare CLI?
+""Local tool for publishing agent reports and small static sites"" - Aren't agent reports small static sites? Why do you need to mention both?
+Your Good Fits vs Bad Fits section is just a good fits vs bad fits for cloudflare pages, not your specific application.
+Creating a chrome extension to add the publish button on the page is quite possibly the single biggest piece of evidence I've ever seen that code is now cheap.
+Readme needs screenshots.
+-----
+Edit: I've been emotionally triggered by this project because the overall feel of it reminds me of all the junior developers at work who've started vibe coding everything and presenting it with confidence that even the most senior developers lack.","substantive",""
+"Super insightful work! Cannot wait to see where this goes.","hype",""
+"""it can fit"" on 256GB of RAM, but it will be heavily quantized and still run very slowly. The headline number is not token generation, its prompt processing. So if you get 10 tok/s and an API gives you 20-30 tok/s, it doesn't seem that bad on its face, but a mac studio or any other machine that's not loading all of it into GPU will do PP 20-50X slower than a purely GPU based setup, which is what actually makes this unusable without $50k in GPUs.
+On top of that, you will still be heavily quantized.","substantive",""
+"Besides local review via codex and Claude code, we are using GitHub Copilot with custom instructions. We just assign it as a reviewer in GitHub and a couple minutes later, the review is done. It raises a lot of issues which are valid and which I never had found. https://docs.github.com/en/copilot/tutorials/customize-code-...","substantive",""
+"I quit my engineering job at Apple in 2023 to buy an aluminum Olson-Grumman step van, and start a mobile knife sharpening business, in Seattle. burlyburr.com Each knife takes maybe 5 minutes and I charge $2/inch, mostly working on summer weekends in the farmers markets. Makes over $150/hr when business is lined up. Sporadic work though.","substantive",""
+"Love TUI apps, hate that there isn't a clean way to control native scrollback. It leaves you stuck between manually managing it via awkward hacks on the current visible screen, or not using it at all. I've been working on an LLM harness TUI for a little while, and this specific part has been the most frustrating (in conjunction with tmux).","substantive",""
+"The fact police can go in and just look at camera footage without warrant proves your point precisely, officers have used it to stalk family members, etc.","substantive",""
+"talos is already in use by https://github.com/siderolabs/talos, was confused for a second when I saw talos and wasm for a second, got excited about native wasm pod support.","substantive",""
+"I was a fan, until I found in developing them, the same friction of a frontend developer.
+All of a sudden, I realized that the command line is already the TUI I want.
+Commands can be piped, while graphic interaction cannot.
+Now I rely on standard input and standard output, and `fzf` for all the rest.","substantive",""
+"I love it. But I'm missing the Game Boy cheat code to unlock the goodies...","hype",""
+"Wow, can’t understand why this isn’t getting more attention.","hype",""
+"I'm not a gold bug but Alan was a proponent of the gold standard.  He wrote about how the gold standard created responsible spending and more equality in the world:
+https://ritholtz.com/2008/11/gold-and-economic-freedom-by-al...
+The world we are in now, especially in the US, is one where there is near unlimited government credit but it is, according to many, papering over deep structural problems.  At some point, these chickens will come home to roost in some way or another.  But it is hard to predict when.
+So he was in favour of the gold standard because it prevented massive unconstrained expansion of credit and that seems sensible.","substantive",""
+"It's a good idea. Why not ask startups to upload a startup.txt (as opposed to robots.txt) to their web root and collect from that? Pre-filled text forms can be downloaded. Also, as with CB, collect data on individuals through a similar opt-in. Enable users to ping your site when it's ready to collect.
+You could have a ""traction"" stat and ask for a JS snippet be installed on homepages or a set of pages. Old school and unreliable. Registered users is also a good way to assess traction. Not sure how that information could be readily obtained.
+In my previous comment I mentioned attaching a crypto address to domains - you could do that too. That'd be interesting. One feature you could add long-term is crowdfunding. Either for new features, code releases, media, documents - whatever.
+Crowdfunding activity on startups and individuals would be a great way to measure traction.","substantive",""
+"@sylwester is the repo run by a bot? or is it you? I'm OK with either, it's just issues are being marked as ""help wanted"" even though they are done in PRs waiting to be merged. It seems the replies in the threads ignore all user comments? What's going on?
+And I've completed your big ""login"" feature request, it is done, just waiting for the PRs to be merged so I can make a nice clean rebase and tidy PR for you to review. But if small PRs aren't being merged I'm reluctant to file a larger one.","substantive",""
+"I like the look of it - my main problem with remote control feature in CC is the inability to start a new terminal session on my computer - can I do that from Pulse?","substantive",""
+"I think this is an excellent start!
+I have a few questions/comments.
+- the site said it would be worked on collaboratively, but I couldn't find a way to do that?  I interpreted that to mean multiple people woroking on it together
+- I would find this more valuable if it was less text editor and more interactive editor. If the goal is group consesus, expanding the tool so more people in the group could modify it would be good
+- What is the reason for having default names like ""SprintReady"" instead of ""Sprint ready"" ?
+- Zoom to all and zoom to selected wold be super useful in the flowchart view
+- being able to rename/edit things in teh flowchart view would be great
+- Having an AI embedded in the tool itself so you did't have to manually round trip and copy/paste with claude code would be super useful
+- It might be worth trying moving the comments panel to the right hand side of the screen. Very similar to  google docs, word and other document tools. Makes the visual chart front-and-center and makes the comments separate from the simulate step","substantive",""
+"Vibe coding takes ""move fast and break things"" to a whole nother level.","dismissive",""
+"Can you make it clear on your homepage what you have to do to use this? I.e., do I add a library to a codebase? Do I add opentelemetry to every request? Does it read my logs?
+I went and tried to skim your docs here (https://workers.io/docs/quickstart) and I still don't get it. Looks like there's something around reading logs?","substantive",""
+"Author here: I did a quick experiment with my Greyhound, Bebop, to figure out the treat he prefers best using pair-wise comparison analyzed with the Bradley-Terry model. Same tech as Elo scores in chess, and several other places! Enjoy!","substantive",""
+"if sam altman didnt exist i could afford to run this","dismissive",""
+"This is great! I’m going to use this for my website thanks!","hype",""
+"This is one of those cases where I would prefer to be antifragile and rapidly ""patch the data"" once as opposed to trying to perfectly solve problems like this before they arise. In all likelihood this will never happen in a particular timezone.","substantive",""
+"Ha ha my brain read that as ""Lean interpretor in WASM"".
+Actually i think it's the ""for"" in the title that's at fault. The repo title is quite clear, but the submission title is ambiguous to me.","substantive",""
+"If you want to keep your math brain working, and to find use for any and all the math you learned in school, look no further than graphics programming.","substantive",""
+"The ""Incident memory"" story really resonated with me. So much of my org's knowledge lives in Slack! Still reading but Buzz seems like the future.","hype",""
+"Whew... the continuous motion started triggering migraine symptoms until I closed the window.
+But it does have a nice 3d effect. For me, the cycle speed seems excessive. I believe someone suggested tying wiggle effect to mouse movement?","substantive",""
+"What is the motivation and use case in coding agents era for this project?
+Dont get me wrong, this question echoes in my head for some time now. Especially with supply chain attacks and open source libraries being entirely written by AI, whats my motivation to use open source libs? Previously it was time-saving, now this incentive vanish since its not me spending more time (but agent)","substantive",""
+"Unrelated but when I read inpainting and Moebius I was scared it was related and using the art of the great Jean Giraud [0] a.k.a. Moebius
+https://characterdesignreferences.com/artist-of-the-week-3/m...
+[0] https://en.wikipedia.org/wiki/Jean_Giraud","substantive",""
+"Free?!. Is there a ""call us"" SSO enabled plan?","dismissive",""
+"I love this and wasted more time than I want to admit looking through the collection.  This is a closet I hope to own some day.","hype",""
+"I have absolutely no idea what this offers that makes it better than git (or any over VCS for that matter) for agents.
+There’s some mention about performance, which is great, but the performance of git isn’t a bottleneck for agents.
+There’s some mention about token use being reduced, which is great, but how have they achieved that vs gits porcelain modes. And why does token count require a whole new VCS, and thus incompatibilities with all the established git ecosystems?
+I really want to find reasons to like this but it’s probably some of the worst product marketing I’ve seen. And something this significant really does need to sell itself hard if you’re going to get enough people in a project team to agree to switch away from git","substantive",""
+"Tbh your student reasoning is still dangerous... the patterns could have not generalized nicely. see moser's circle problem
+needed to justify viewing this as ""arranging down vs right movements"" as another comment outlines","substantive",""
+"Awesome. Props for the iPod clickwheel. I miss my Classic!","hype",""
+"The code is...quite bad...
+It seems the AI coding is just the software version of Temu. Lots of cheap stuff but none of it is very good and it breaks pretty easily when you try to do anything outside of a very very small list of uses.","substantive",""
+"really nice! Criterion should have this as a view on their website!","hype",""
+"Nice!
+Would be really nice to have links to director's picks. Eg I clicked on Che, saw that it was in Denis Villeneuve's list, and wanted to check out his other picks.","substantive",""
+"I kept losing track of what I'd already tried while debugging, so I built DebugBrief.
+It wraps the commands I already use, like pytest, jest, cargo test, and go test, records what failed and what eventually passed, and turns that into a Markdown report. The report includes a summary and the red-to-green window, but it only uses recorded commands, exit codes, and Git changes. It doesn't use AI or guess the root cause.
+DebugBrief itself makes no network requests and has no telemetry. It uses the standard library on Python 3.11+, tomli on 3.9 and 3.10, and native Git when available.
+pipx install debugbrief
+It's currently tested on Linux and macOS with Python 3.9 through 3.14. I'd be interested to know whether this workflow is useful to anyone else.","substantive",""
+"Blegh, I puke every time I see obviously AI generated comments in GH PR's. You cannot assume any of these people have done their research, other than telling Codex to do it for them","dismissive",""
+"I often kept a personal ""notes"" file while I was working on a project/feature.  I now think that what I should have done is check that file into the source tree, at the top level directory for whatever feature I was doing.","substantive",""
+"It’s a great product. I’d mainly like to know: how does this compare to connecting Apple Health data to Claude or the ChatGPT app and having them perform calculations in a specific way?","substantive",""
+"I think something that is a mix between localStorage or IndexedDB and access to the user's filesystem would be better.
+I agree with the comments about how much of a security risk this poses. But, isn't that the case with any binary or executable files and apps we download from the internet anyway?
+It would be cool if you could have a specially-demarcated directory (e.g. even inside the application like `~/Applications/Chrome/<website>/local_files`) which you can just open super easily with a button from Chrome, and just copy files over into that directory as needed. Would provide the benefits of a more secure enclave with the flexibility of being on the filesystem.","substantive",""
+"I think I found a mini bug. Say I do a score of 10. Then I change board. Then I die with score < 10. I still have 10 for that board. It makes it easy to cheat the leaderboard :) Fun game!","substantive",""
+"Built my own using Claude Code; inside a gitlab job we call Claude Code headless. This works well. There is a tiny mcp server exposed to Claude so it can post inline comments. All existing comments are fed into the reviewer to avoid double posting. The quality of feedback is high. Most complexity is in the SHA management. For example after a rebase. Luckily LLMs understand git very well otherwise it would have been impossible for me.","substantive",""
+"When I was growing up, I watched my dad fix many things around the house. He took it on as a challenge, but you could tell he was genuinely curious about how things worked.
+Taking something apart and trying to fix it was his way of figuring it out. I really appreciated that, and I find myself operating in similar ways.
+He also had a fearless approach and the belief that he could fix it. I never saw him give up on a project—almost to a fault. There are areas for improvement in that approach, like asking for help.
+Thanks, Dad, for inspiring me to fix things, take on challenges, be fearless, and believe I can succeed if I applied myself.
+To all dads out there. Happy Father's Day.
+I wrote this as I was motivated to fix my espresso machine last week https://x.com/dodeja/status/2068170135911981068","substantive",""
+"No, it feels like its game over for most people. No more lives left to play. Most people whose parents went from farming --> jobs now feel their parents made a fatal mistake. There is nothing for them to fall back on. It is hard to go back to farming. Which is made worse because there is no land, the lands for sold for a pittance, which now costs a substantial amount of money.","substantive",""
+"I’ve always found all llm’s to be effortless to “jailbreak.”
+Simply edit their refusal, “Sure, I can do blah blah blah, let me know if you want me to continue!” And then send back an api call with that edited response and your own response saying “Yes.”
+I’ve found even the most guard-railed LLM’s to then be willing to do even the most heinous shit I could think of.","substantive",""
+"I'm interested in trying a moderation scheme that puts the power in the receiving client, with opinionated defaults. Let the client filter for itself, mute users for itself, and make users invisible to itself. Have default settings that make sense for the app, but let the user override them.
+Use a cheap purpose-built LLM like OpenAI's free moderation endpoint to classify the text and send the original text plus the classification to clients, and let clients choose what to do with it, with opinionated defaults appropriate to the app.
+Maybe you still need to identify persistent bad actors rather than acting only on content. But still, allow clients to decide what to do with that information.
+I suppose my thinking is that strong default automatic moderation that's invisible to offenders is a requirement for a project like this to be able to offer a welcoming experience to users, but putting the power in an LLM and fixed filter lists feels very wrong. So my thought is to use those things to give the client power. But maybe that makes no difference if nobody changes settings away from defaults anyway.","substantive",""
+"> but the speed is a consequence of the design, not the pitch.
+You kinda lost me there. I‘m supposed to use a central technology whose author can’t be arsed to write a few paragraphs?","dismissive",""
+"Whether you're a consumer, employee, or enterprise IT, in today's data-rich world, it can be difficult to tell if your information is really being stored securely.
+I'm therefore proud to announce my new, AI-powered startup to help you navigate the modern privacy landscape. It's called Nope™. If you're concerned about privacy, make sure Nope™ is the first thing you think of.
+It's easy to get started! Whenever you find yourself asking, ""Is this company really storing my data securely?"", your next thought should be: ""Nope™""","dismissive",""
+"This is great IMO. I like zig as a language and the idea behind it. But boy, it has a syntax issue. I with they figure out better syntax before 1.0, developer ergonomics I think are as important.","substantive",""
+"I don't understand. Is it available somewhere to try or is it just an ad?","dismissive",""
+"great idea! this use case is the only reason left why I start VS codium.","hype",""
+"> NOTE: This project has been mostly vibe-coded
+I deeply appreciate the honesty here. I’ll pass based on the vibecodedness of it but perhaps it won’t be a dealbreaker for others.","dismissive",""
+"Relevant: https://news.ycombinator.com/item?id=48016224
+what's the differnce between this vs running shannon on aws/bedrock fully airgapped in my vpc? I've got some pretty great results with shannon [no subprocessor and can pay via aws credits]. Even better using claude code token [effectively free with our $200/mo cc subscription]
+I tried kimi but it generally spins it's wheels extensively in it's thinking tokens. kimi2.7 is an attempt at reducing this. But doing finetuning, means you will always be behind the latest.
+as a side note - I think it's very unprofessional and very shitty to not mention kimi2.6 at all in your marketing copy. and i feel that you posted that in this hn post begrudgingly since the hn crowd would have flagged that.
+confirmed with a google search too: https://www.google.com/search?q=kimi+site%3Aargusred.com
+All around your marketing website you keep mentioning - 'A model lab built it'. A fintune does not maketh you a model lab  - some humility please :)
+finally - doesn't Kimi's licensing prohibit you from not mentioning them? Didn't cursor run into the same issue?","substantive",""
+"Add some interesting  smells and dogs will eat absolutely anything.
+Used tampons, literal shit, soiled underwear, dierhia, dead bird, freshly killed cat, they owners... It is basically a pig with collar that lives in your house.","substantive",""
+"Love it, also love that there's one HN visitor just hanging out typing ""dick and balls"" over and over again. That's unmoderated anonymous public squares for you","substantive",""
+"The word from Red Hat is existing systems will continue to boot — presumably because they are time-stamped and counter-signed or because the dates are ignored entirely.
+99% of secure boot discussions are drowned out by people who don't have a clue what they're talking about, yet are spittingly, furiously mad.
+They've also had over a year to prepare for this so if Linux distros are only telling you now, that's on them.","substantive",""
+"I LOVE that people are creating things like this. The best way to complain is to make things. More power to you!","hype",""
+"Moderation moderation moderation . It’s a big problem
+I have similar moderation concerns in my browser game/engine but I only ban offensive slurs not swears, but I give no visual affordance that the word is not allowed
+The only surface where players see the input content is in a share card, and if they finish a game and get to the share card they will find the offensive word has been REDACTED lol
+So it’s a long feedback loop just to find out your hijinks lead nowhere","substantive",""
+"You didn't wrote this. Generating code from AI is NOT programming.","dismissive",""
+"Tesselation Games’ ‘Berrymandering’ tabletop game is also a fun way to depress yourself - and a fun way to introduce the idea of gerrymandering to friends and family who don’t ‘get’ it - and depress them too!
+https://www.tessellationgames.com/","substantive",""
+"One of the cool things about code is that you can build stuff out of thin air, basically for free. It's not like woodworking where you have to pay for the wood.
+We are moving into a weird time where people are assuming that now we have to pay machines churn out code.
+Somehow they packaged up our own ability to think and are selling it back to us. If they can get us to forget how to do it we'll be the perfect customers, dependent forever.","substantive",""
+"Maybe this would’ve made economic sense 20 or 40 years ago, but nuclear is too expensive now compared with renewables. I can’t help but think this is a covert plan to bcecome an “almost nuclear” state in response to threats from the US.","substantive",""
+"this is an unexpected twist to photographic assignments. I'm wondering why is it limited to SF only? I mean, there shouldn't be a limitation from a technical point of view. Do you plan to extend it?","substantive",""
+"Congratulations, you've fulfilled one of ThePrimeagen's predictions! (A donation platform for AI tokens)","dismissive",""
+"I loved this project the first time it came around. As much as I wanted to build it out myself, I was shocked at how much the components actually cost to put together. It definitely seems like an improvement on the charmera though, so it all comes out in the wash.","substantive",""
+"Really neat findings.
+I've personally had a line of thought where you bake in the role into the token. Basically have an embedding (same dim as token dim) for each role, add it to each token. This adds an unambiguous, unspoofable tag.
+I ran this with a tiny Shakespeare model (not representative) and had a freeform embedding for each speaker. I ended up with a neat similarity map between every character. (I don't think the map was very informative for several reasons, but that's outside the scope of a small HN comment)","substantive",""
+"2016: OMG I found that old hard drive with bitcoin!
+2026: OMG I found that old shoebox of SO-DIMMS!
+Lol","dismissive",""
+"> This is a blog-style writeup of the paper
+YES! I'd love to see more of this. Academic writing is designed to be frustrating to read. Publishing both a paper and a readable blog-style version of it is such a great pattern.","substantive",""
+"Ha ha! Yes I am in the weights apparently. Nearly all the models know what I do.
+I suspect being in the Open Source world is a bit of a bubble as far as the weights are concerned.
+Anyway it stroked my ego nicely even though it was totally artificial, like Zaphod Beeblebrox surviving the Total Perspective Vortex.","substantive",""
+"I am pleased to see hardware not being locked down as a selling point:
+> Yes, Steam Machine is optimized for gaming, but it's still your PC. Install your own apps, or even another operating system. Who are we to tell you how to use your computer?
+It feels very commonsense that you should be able to run whatever you want on the computer that you have purchased, but it is surprisingly uncommon.","substantive",""
+"I haven’t seen much on WebMCP adoption yet, but I’ve been keen to use it for improving the AX of a web app at work. I’m curious how you all are seeing it be used.","substantive",""
+"All of this protocol crap is a distraction. What's important is allowing agents talk to each other in their current scope and ACLs, including for their ability to talk to and discover tools. When Anthropic decided MCP was a good idea and published what they did, I ranted for days. Ok, I'm still ranting.
+Now, discovery is important and there is a post right now on the front page about it. But what everyone is probably missing is that a) agents with tokens and services that honor those tokens is already handled well with HTTP. Fun fact, the original HTTP protocol (does anyone do RFCs anymore?) didn't support POSTs! So, most calls can be boiled down to doing a GET request somewhere with a token the remote end understands. Layer on SSL to hide the ? parameters, assuming it's easy to get certs mapped to your house network.
+Discovery can be handled a bunch of different ways but given the nature of where the agents are running, it can be DIFFICULT to connect them (hole poking comes to mind). Of course you could run stuff in the cloud. But, if you care about sovereignty, you probably want to avoid anything that will ""lock"" you into a service (or a single agent/model for that matter).
+What's 100% missing is payments, of course. Meet the 402, PAYMENT REQUIRED. Cloudflare (grumble) has something for that, but they stole it from Lightning Lab's very own roasbeef's Aperture project a while back, which implements payments with the Lightning network.
+Make a bulk payment to a Bitcoin address. Stuff it in a Lightning invoice, send it to someone, they extract it and update the server to let you in. If you decided they ripped you off, close the invoice and the funds are refunded.
+Now, I know a lot of people are skeptical about Bitcoin, but I really do think micropayments are useful for agent-to-agent comms. That's why I threw down the idea on a page about two years ago...so I wouldn't' forget: https://ahp.nuts.services/","substantive",""
+"I'm posting this from a test feature I'm working on for your app: HN login, comments, replies, edit, etc.
+I've also filed some smaller PRs.","substantive",""
+"The problems building with Linux and GNU environments exist because they were terribly designed with assumptions like
+- You're building on the same native system as GNU and Linux packages, you install them globally in the same places that servers and desktops use
+- Your C, C++ compiler and entire toolchain and other binary utilities with the kernel is a one single unit that you can only change one part at a time
+- You use the same up to date headers with glibc, gcc and Linux kernel
+- You're building software in the same universe of all the other packages, especially gcc libraries (libgcc_s, libstdc++), glibc (especially bad since ld-linux.so is part of it)
+- The build system only uses standard paths
+The reason Yocto is so complicated is that developing in a Linux environment actually sucks when you're not writing web-oriented or server / VM software. Yocto fixes it. It introduces a good set of abstractions that work around terrible design decisions that were made in overall Linux ecosystem. There are a lot because the OS design is fundamentally broken, especially with C-based toolchains which is 99.999% of the ecosystem. Current C toolchains including MSVC strongly ties OS with the C's internal types and bad decisions of 70s.
+As always all articles whose title asks a question are answered with NO, 99% time. By taking away the cross-compiling abilities and the workarounds doesn't fix the brokenness of Linux and overall FOSS ecosystem.
+If you're looking for how a better embedded environment looks like, look at Rust toolchains. For Linux take a look at musl-libc based ones (you 100% need a systemd distro to get away from nss complexities that musl introduces). Or even better take a look at relibc. There are barely any assumptions about the target filesystem and tooling in Rust toolchains, unlike C/C++/Make toolchains. There is redox OS but it is still in slow development and they stuck with Make, which I think was a bad decision. Android uses its own build tooling but cannot run away from C/C++ tooling unless Google revives Fuschia.","substantive",""
+"This is the useful AI stuf. There’s so many usecases this makes possible.","hype",""
+"This makes me wonder what the research is for whether certain types or breeds of dog prefer certain dog treats, and how individual dogs might develop a preference for one kind over another. Based on this experiment it doesn't seem like the type of meat matters much, since while the top ranked treat is chicken, his second favourite seems to be the duck one.","substantive",""
+"I respect what Valve is doing here and I loved the Steam Deck but a prebuilt desktop PC with 16 GB system memory and 512 GB storage for $1,000+ is insulting. Those are specs that belong on a laptop or a lowend console offering like the Series S.
+I think this product is going to be hamstrung by its attempts to present as a midpoint between a PC and a console. The way this is being achieved seems to be by selling a device with the specifications of a console but the price tag of a PC.
+Valve already did the ""this is a lowend device and that's okay"" thing with the Steam Deck, and got away scot-free because nobody expected a handheld and people didn't have a ton of preconceived notions. The Deck was also a better value since it was (prior to the price hike) priced reasonably for its specifications.
+The desktop PC and/or living room console modalities are both significantly more stratified. People have solidly defined expectations about price-to-performance-to-usability ratios in both of these sectors, and I worry this doesn't go far enough in any particular direction to meet the demands of either market.
+Leaves me wondering who exactly this is for.","substantive",""
+"Full disclosure, Ahmad, CEO at Corgea.
+Interesting approach, catching vulns at commit time before CI runs saves cycles. The challenge is always false positive rate at that stage and the AI inference time. How fast is the review? I saw the demo video and it seems you cut to the results.","substantive",""
+"I have been looking for a tool like this for so long. Very cool I will def be using for my website","hype",""
+"It's weird that people think AI breaks the concept of work sample testing. Work sample testing isn't ""about"" programming, and predates the profession of programming. You can (and some companies do) work-sample test sales account managers, customer support, accountants, whatever.
+AI changes the underlying job you're testing for. So, obviously, the tests you might have been using pre-AI won't work anymore; they're testing something that isn't really the job anymore. Update your tests so they're about the real work again, that's all. For coding, that probably means assuming (or requiring) candidates use AI to do your assessment.
+What AI really does mess with is conversational/interactive interviewing. We do all our interactive scripted interview on Slack, but I can imagine us having to end that practice and return to face-to-face.","substantive",""
+"This is really cool! Would love a technical breakdown on how you put this together.","hype",""
+"I believe that chain-of-thought reasoning blocks don't really correspond to what humans think of as reasoning. (See section 6.2.2 of the Fable/Mythos system card about ""illegible reasoning"", and the questions raised by the Apple paper on ""The illusion of thinking"".) I assumed they obscure the reasoning blocks because if users saw what's going on they'd be alarmed. Just as I'd probably be alarmed if I saw what was really going on in the heads of my colleagues ...","substantive",""
+"Never ever connect your ""Smart""-TV to your network, or if you have an incurable impulse to then make sure it's on a firewalled gateway-less VLAN.  Take the money you save buying the thing (compared to what a profitable ""dumb"" version would cost) and buy a surplus corporate mini-workstation system, and slap LibreELEC/Kodi or whatever on it, and use that device as your ""smart"" device.  No good for you can ever come from bringing the TV onto the internet... ever!
+(Also: never paypig, never subscribe!)","substantive",""
+"Recently I had been struggling with a computer that kept crashing randomly. I finally figured out it was a bad stick of DDR4. I jokingly said to some friends I should put it on Facebook marketplace for free for repair. Maybe I should, who knows maybe someone can reflow the chips?","substantive",""
+"Amazing project! I'd love to see something like this for the football world cup. Maybe a FIFA 97 style?
+I wonder if some kind of filter would work or we would need some data source. Looks much harder given the fast-paced nature of the game.","substantive",""
+"What a great accomplishment! How did you manage to complete a JIT language in 2 months!?","hype",""
+"If I'm not mistaken this blog is from a person I had the pleasure of working with in undergrad for a course project. They were brilliant then and are still now.","substantive",""
+"Pretty good, and I think I could definitely use it. One thing that I immediately missed is syntax coloring. For Markdown and other known extensions. I am sure it will be trivial to add it.
+Another possible useful feature would be to add ""open in system"" or similar in the right-click menu for a file, to open the file with whatever application the OS has bound to it.
+EDIT: I see there's a plugin thing that when clicked installs the highlighting. Cool!
+EDIT: Also missing is selectively staging lines of a changed file to commit.  I would actually change the behaviour of the Git UI so that it matches the VSCode one, to reduce the learning curve. Most people already know how that works, no need to make them learn a new UX.","substantive",""
+"I like this, I’ve been tracking with MyFitnessPal. Would be great if I could import historical calories to see how it performs.
+Also note that tracking calories is hard - often it’s an estimate so quite hard to vary by the small amounts above and below the threshold needed for continued weight loss. 
+Also losing weight is hard!","substantive",""
+"on paper, i write all the major and important parts, words, functions, system, architectures, orchestration, file tree, journals and diaries, i am not an expert coder at all, pc engineer 25 years, and now the past couple years have been using ai , chatgpt and cursor to play with and learn what is possible.  when i write something on paper with red or blue texter , and then have that paper in my view while i am working. helps me every single time. helps me not drift. keeps me anchored. these papers are my light house's .and i am captain of my ship.","substantive",""
+"I know the price for PC parts is terrible these days, but $1049 for a 6-core 16GB RAM, with a 512GB SSD, and no controller, is a terrible value.
+For reference, the PS5 Pro has more than twice the number GPU CUs, an 8-core CPU, a 2TB SSD, a controller, and costs $899.","substantive",""
+"Slightly better than the claude code ""feature"" that deletes all your session context and transcripts older than 30 days old.","dismissive",""
+"I really enjoyed this, thanks for taking me back in time!","hype",""
+"I apparently use Claude differently the most people who talk about using Claude on the internet.
+I’ll typically have a bunch of short sessions over the course of a day. Anytime I start a task that isn’t going to very directly benefit from the existing context I start fresh.
+I don’t find a lot of benefit in explaining the project overall to Claude — I’ve deleted a lot of that explanation from my Claude.md because it didn’t seem to impact much.
+I typically start a task by pointing it to 1-2 files and giving it some explanation of what I want done, and it 
+figures it out.
+Basically never hit context window limits or compactions, and can’t remember the last time I hit a 5 hour or a weekly limit.","substantive",""
+"> Web technology is the most widely-known UI toolkit in the world.
+Poor choice of words there IMHO.
+The reason Electron apps get a lot of flak is because they are everything _but_ a UI toolkit. They consistently miss the mark in adopting UI patterns from their host OS.
+Web tech is just web tech. Yes it will allow you to render a button, but even unstyled, the button won't necessarily look native to the OS, and will vary between browsers.","substantive",""
+"I haven't used it, but there's also Avocado OS [1]. Myself, I use Yocto for our embedded build. It's not perfect but for our application, which involves building a bunch of software that uses both Swift and Flutter for an embedded audio product running on a RPi CM4, it works just fine. Shout out to Mender for A/B updates.
+[1] https://www.peridio.com/avocado-os","substantive",""
+"The lazy mount is very interesting. This is similar to how google3 works at Google that I have not seen any similar implementation in open source so far.
+Git sparse checkout is helpful but checking files out as they are needed is much more flexible and intuitive.
+Microsoft VFS for Git / GVFS is the closest that I can think of.
+There is room for this lazy mount idea to be built on top of Git","substantive",""
+"cool product 
+but i would like to add some point.
+so sharing only agent.md is not sufficient i feel try if you can copy a session of claude and import it into opencode/codex.
+tool that track session, i dont mean every message i mean useful context.
+behind the scene agent is using sqlite or some other their format is it not that much hard to reverse engineer.","substantive",""
+"The headline made me fear that I will need to shell out a few more bucks for 4164 DRAM chips, but fortunately this does not seem to be the case.
+DDR3 is not ""retro"", for chrissakes.","substantive",""
+"You cannot use the SAT as a metric to compare different cohorts. SAT scoring has been revised many times over the years. When I took it the highest possible score was 1600. From 2004 through 2016 the highest score was 2400. Now it is back to 1600 again.  Plus, both the content and the format of the exam has changed many times over the years. At times, there was no essay requirement, at times the essay was required, and at times it was optional. Hence, each year the examination produces a different distribution/histogram of scores even if you normalize the 1600 vs 2400 difference.","substantive",""
+"If you were a first-year CS student again in 2026( or going to be a 2nd year) , what would you learn that most students ignore?","substantive",""
+"Well, it seems like keeping secure boot disabled was gonna help me in the future haha
+I know it is not recommended but the options to have my own keys seemed a bit of a hack than a solution.","substantive",""
+"I'm surprised more people aren't freaking out about this. It seems likely a whole lot of Linux machines are going to fail to reboot in the next few months. The problem affects VMs too. I was grateful Proxmox put a little warning in its hypervisor GUI with a button to press to fix the BIOS of its VMs.
+Secure Boot has been deeply broken for years, not providing meaningful security on most consumer machines.","substantive",""
+"One thing that would be useful in the readme is instructions on how to install the built app on a phone, for those of us who don’t do iOS development.","substantive",""
+"Do i have to put in what I ate throughout the day? How accurate / easy is it for me to put in each ingredient that I ate and its weight? Instead, can i put in a weekly meal plan that I already have?","substantive",""
+"If you're unsure about spending the time to learn Zig, I really recommend watching the following interview with the creator of Zig https://www.youtube.com/watch?v=iqddnwKF8HQ convinced me more than any design doc or blogpost could","substantive",""
+"Apparently I'm an American volcanologist. Pretty cool.
+(I nuke my online accounts regularly to not be tracked - started because I had a stalker but now it's just for the best. I know that this goes against hn rules but yeah it's a bad rule)","substantive",""
+"Fascinating they're going this direction when solar and batteries are so cheap in Texas...
+Nearly all new additions to the grid are solar, wind, and storage right now on Texas' grid. Not because of Texas regulations, but because Texas' grid is one of the few grids where generation decisions are all made by independent investors trying to make money.
+Especially with the shortage in gas turbine manufacturing, very surprising! Not sure if this says more about Microsoft or datacenters.","substantive",""
+"This problem is not new and is a relatively minor exposure to the sort of issues that TZ conversion constantly needs to deal with.  Different parts of the world have different dates that they adopt (or don't adopt) DST and some nations have changed this date in the past.
+Use a library, do not roll it yourself, do not try to outsmart tzdata... if you think you could then please volunteer for this project and either become a new Chronomancer[1] or get disabused of that misconception.
+1. It's a legal title, people actually have to call you a Chronomancer if you've contributed to tzdata, it's the law.","substantive",""
+"I'm with the other comments here, but what's the deal with the '120 fps scrolling' blah blah blah? This clearly isn't a game or movie -- why are we talking about frames?","dismissive",""
+"I used zip disks quite a bit (as an architect) and never heard the click of death.
+Before usb sticks, zip disk was the only way to move medium to large files, other than burn a cd.","substantive",""
+"I wonder if you could feed the generated assistant output to another model which has no other context from the other role tags and merely performs a policy review of the generation and flags violations.","substantive",""
+"They left out the steps to update it.  I made a rough attempt at a document for this. [1]  Please let me know if I missed a validation step.  I have done this on six machines but they were all Linux.  Not tested on BSD.
+Archive [2] in the event I was too aggressive in blocking bots.
+[Edit]  I should also include this [3] thread for completeness sake.  Some people people were playing with a shim work around but it looks like a lot of unnecessary complexity and fragility to me.
+[1] - https://nochan.net/b/Internet-Crap/20260621-Update-Secure-Bo...
+[2] - https://archive.is/ml3jv
+[3] - https://www.reddit.com/r/archlinux/comments/1pvw6td/grub_shi...","substantive",""
+">This won't be made available to anyone and everyone
+>no benchmarks on standard Cyber benchs
+ok","dismissive",""
+"Looks very interesting, but it's difficult to see the benefit from git right now apart from performance? Don't get me wrong, that's good, but I don't think it's a big enough proposition to get people to ditch git and move to oak.
+Since it's early, here a couple of things I'd loooove git to be and it's not, maybe you can consider to go in this direction and, if there are many more like me, get a large user base:
+- The private/public quantum shouldn't be a repo but something more fluid within a repo. A public repo should be able to have private sub-directories, files, etc. If should be fluid in this regard, so big projects could open-source <i>some</i> features, not all. Right now it's all or nothing, and that closes the doors to many big closed projects.
+- env variables. If you could make its usage easier and more seamless within oak, that could convince many (me included). It's really a headache to deal with env vars and git, and shouldn't be the case.
+- Collaboration for agents beyond PRs. I don't know exactly what's the flavor for this, but I know that fundamentally the create PR/merge circle of git is not how it should be.
+Great initiative and good luck!","substantive",""
+"The first ones shown are quite neat and pleasant. The ""accidental"" ones pretty quickly gave me motion sickness as I scrolled through them. They also weren't nearly as interesting, though I couldn't look at them for very long.","substantive",""
+"This is cool!
+One suggestion: some way to tell what the enemy pieces are? Maybe a legend to the right of the board? I ended up discovering by trial and error.","substantive",""
+"For me its always difficult to judge if one should train such things with their children. Same goes with instruments. You need to train every other day and keep it up for a long time, which I never liked as a kid.","substantive",""
+"It's great to be in a position to do this,  however I'm beginning to think that their greater contribution is ghostty
+I don't really know how to value things any more when I see someone develop a tool that is kind-of useful that then gets acquired for half a billion dollars.    As someone with a decent number of decades of terminal hopping, the improvement that ghostty has brought a breath of fresh air.  To me it has represented more utility that a few of those acquisitions.","substantive",""
+"Ultimately, there’s a sort of homeostasis in people’s tolerance for crime. If you need video evidence for prosecution, those who want it prosecuted will produce video cameras. If you make warrants impossible to produce in a timely manner, the camera search will be warrant exempted.
+Attempts to damage state power to ensure crime isn’t prosecuted will be likely met with methods that are immune to them.
+Given the constraints we operate under, the ideal number of unsolved crimes is not zero and the ideal number of crimes committed using state apparatus is also not zero. So being informed that either is non-zero is not of use to decision making in my opinion.","substantive",""
+"I think stuff like this needs to grow organically from a combination of passion and (social) opportunity. You may want to look around where you live, for gatherings, events, markets, and take the time to see if something speaks to you?
+Modern life for many is too fast. We can consciously slow down and feel and listen and explore, and if we practice enough we can do that without pressure or direct goal, and then when you don’t expect it something will show up that matches.
+I doubt your neighbor started with the idea.","substantive",""
+"> without needing to download everything
+how does your agent run tests or click around the UI to verify changes if it doesn't have the full code?","substantive",""
+"IMO the most interesting thing about this is Kimi K2.6, an extremely capable model, can be relatively easily post-trained to allow pen tests.
+This in its own right proves that the defenses of Fable and others are temporary blocks, and AI based hacking is going to be effectively available to all parties regardless of stop gaps, as long as open models exist.","substantive",""
+"Collaborative agentic work is the future! Excited this is out in the world","hype",""
+"CANDUs are cool, hope to see more in the world","hype",""
+"Dumb change on the part of British Columbia.
+Source: me, BC resident.","dismissive",""
+"Got me completely wrong. Which is weird as I have tried myself on ChatGPT before and it seemed to get it right. We have all done it, right?","substantive",""
+"Can't wait for this to get bogged down in legislation and never get done","dismissive",""
+"Sneaky age filter? You must be young enough to remember your SAT scores.","dismissive",""
+"I have been experimenting with modifying Ghostty lately. It's a well attended codebase and a pleasure to work with, props to Mitchell.
+Since Ghostty is written in Zig, I ended up adding native Zig AST support in Dirac (https://github.com/dirac-run/dirac/blob/master/src/services/...)
+One thing the has been a little unintuitive is the pattern of all code and tests in single files, which makes the filesizes grow much larger. Also if you're coming from inheritance supported languages, Zig forces a different way of thinking","substantive",""
+"My favorite bit of Greenspan lore:
+Texas Senator Phil Gramm (pretty sure it was him) was a prominent GOP member of the Senate Banking Committee. Of course, Greenspan often testified there.
+Gramm would always ask Greenspan, along with his other questions, “Mr.  Chairman, what’s the ideal capital gains tax rate?”
+Greenspan never missed a beat: “Zero.”
+Agree or disagree, you always knew where he stood!","substantive",""
+"I think it’s worth emphasizing that based on the article, those are third party apps, not first party LG apps.
+Based on the headline I thought it’s the built-in apps.","substantive",""
+"I’m not sure if you’re aware, but Claude Code’s built in remote control feature already lets you respond to permission prompts from the Claude app on your phone.","substantive",""
+"This is amazing, really takes me back. I love the interaction on the website and how you can move around the windows.","hype",""
+"This is so sick. Laughed hard when the iPod wheel worked as expected with my mouse and I was able to get Bomfunk MC's playing. Great stuff!","hype",""
+"Keyloggers collect sensitive data? Some really sharp insight coming out of FB HQ here
+Stupid plan yields stupid results","dismissive",""
+"I'm sure I'm just being a crotchety old graybeard but I ride my bikes to get away from this crap. I do use Strava to track my rides on my watch but I don't even look at it until the ride is over.","dismissive",""
+"a random complain on my part would be the log in with google. hate that. looks great, otherwise. i don't even have a problem creating an account, honestly. but i try to not use the google for anything unless i have to.","dismissive",""
+"Bought MonoLisa back in 2022, never even considered switching coding typeface since. Before that time I used to switch every 3-6 months.
+It's really well balanced easy on the eye.","substantive",""
+"Looks great. FYI, Claude has idunno, maybe 20-30 different strongly themed websites it knows how to make, and this newspaper aesthetic is one of them, and all the sites it does this way look exactly the same.
+It's a good aesthetic for your site, and I thought it was a good one for one of my sites. But eventually I redesigned my site significantly when I saw that it's gonna be common among vibed-up website designs and they look exactly the same.","substantive",""
+"This game is not boring!
+Better than most of the puzzle games in google play.","hype",""
+"I've seen articles that say that absolute perfect pitch is a curse, not a gift, because it wanders with age, and then everything is ""out of key"".","substantive",""
+"Nicely done! I've been enjoying using it. Thanks for sharing.","hype",""
+"It would help if you actually explained what the color means.
+What is yellow? What is green? What is blue? Are they relative to their CPU column? Relative to the pricing row? Absolute?","substantive",""
+"So close! My machine with 192GB RAM + RTX 3090 24GB can almost run this. It says it needs 24GB of VRAM and 256GB of RAM for MoE offloading.
+https://unsloth.ai/docs/models/glm-5.2#usage-guide
+In a prior thread, someone said it would take $500k in hardware:
+https://news.ycombinator.com/item?id=48629970","substantive",""
+"If that happens, we will see it in triple-A games first. If some new titles have significant lower hardware specs than expected.
+If buyers can't afford the hardware anymore, the studios need to adjust. It's definitively possible to scale games down a lot. There are a few AAA games that were ""dumbed down"" for the Switch 1 (Hogwarts, cyberpunk, ...). And that's a really low-spec device.
+There are two factors: existing gamers not able to afford upgrading. But also new gamers, that might only be able to afford much lower spec PCs than people who bought 2 years earlier.
+Why games? Because there is a clear point where people stop buying games. Minimum hw specs are known before buying.","substantive",""
+"This is extremely useful and cool. I dream of having visualizations like this for anything I buy that has specifications.","hype",""
+"I don't think we will in the HN snark sense of ""this react site or electron app uses way too much memory"".  Those companies will continue to work in the same way, maybe even less efficiently as people chase modern UIs with extra animations or videos or effects, or with some AI code generation tacking on too many features or tech debt.
+In specific sectors I do think we will see more optimization.  If you're working on cloud compute or AI training / large scale data processing, there will be a big focus on optimization as prices are very large at that scale and shortages have a bigger effect.
+Also in gaming I think the next cycle will be different.  Big game studios used to push for the best possible graphics that might require the newest consoles or high end gaming computers, but the next releases might not be as much of an upgrade.  The next gen of consoles or graphics cards themselves might be delayed, or be less powerful, or be too expensive and flop, as chip manufacturing companies continue focus on more lucrative markets and leave average consumers behind.","substantive",""
+"Minor nitpick - the Bernoulli 90 MB removable disk was released in 1991. The Bernoulli 44 MB was late 80s. I liked them a lot better than the SyQuest drives with their hard platters which seemed much more failure prone. I still have a stack of 90 and 150 MB disks and a couple 150 MB drives. They were considerably faster than the internal 20 MB ESDI drives in the IBM PS/2 systems I backed up.
+I saved a stack of the classic IBM keyboards when we decommissioned all that stuff. Still using them too.","substantive",""
+"good idea - i built something similar for screen-recordings. I think tools that act as primitives within the harness are very early but potentially large tailwinds. BOL","substantive",""
+"> Steam Machine, like our other hardware products, is made up of many components that we source from manufacturers around the world. The price at which we sell our hardware is a direct result of the cost of these components. We felt like we had a good understanding of how those costs might change over time when we first started sourcing them for Steam Machine back in 2023. That understanding was born from the many years of data we all have about the evolution of PC hardware prices – primarily, that it tends to get cheaper over time as new technology arrives.
+> Over the past year or so, that has changed quickly and significantly, most visibly for RAM and storage components. There are a variety of reasons, all of which are affecting hardware products everywhere. The overall effect is that our original goal for the price of Steam Machine is no longer viable. So the prices we're sharing today reflect the state of the world for manufacturing; or, more accurately, it reflects the price of the components as we've secured them over the past 6 months.
+Take notes about the tone, the communication style, the honesty that you can feel by reading those words. There are no problem that can’t be alleviated (if not solved) with good communication to your customer, and you can bet that Steam knows damn well theirs!","substantive",""
+"The author alludes to it but the defence to this is seemingly insurmountable at the moment because we’re ostensibly operating LLMs on a single channel — their inner, subconscious voice. Right?
+Interacting with an LLM is a bit like seeing the output of an Inside Out (the Disney movie) scene. Or it’s a bit like a human brain that we’re providing tool call access and introspection with some kind of advanced neuralink.
+But - like the author says - _we know_ our inside voice from the outside world, because we’re embodied.
+Is there something we can do here by attempting to bifurcate internal and external systems? Like a conscious and subconscious stream of information on two separate bands?
+If the model somehow knew its User was not it because it was clearly an external signal, then the attack documented here would be about as effective as a Jedi mind trick without the Force.","substantive",""
+"Kind of surprising this stuff still is little more than a concept. 12 years after google launched and scrapped it's glasses there are still no well established alternatives for cycling, which is such an obvious market. Everyone is wearing glasses, everyone has a computer mounted to their handlebar, let's integrate them together already.","substantive",""
+"I'm surprised that Vim is not on the first place here.  Great TUI application.  However, the about the TUI applications which I use is extensibility.  For example, FZF is just a picker, but it has a ton of extensions.  Another TUI I like is the interactive mode of Khal (calendar).  However, apart from TUI it allows to be used through CLI which allows you to make your scripts on top of it.","substantive",""
+"An intuitive motivation for the solution in the article (2n choose n). For an n*n grid you have to you will take 2n steps, n ""over"" and n ""down"". All that matters is the order of the steps. So if you think of there being 2n ""slots"", you have to pick n to be ""over"", and the rest are forced to be ""down"". So it's n choose 2n indeed.
+You can also think of it another way, without using the formula combinations, and only the fact that there are n! permutations of n objects. We can think of this a permutation of 2n items, made up of two groups of n identical items each. Using (2n!) will overcount, due to the fact that each of the ""over"" steps are identical, and similarly for the ""down"" group. We have cut down our answer by dividing out all of the repeated sequences. There will be n! redundancies for all the ways we can permute the ""over"" group and, the same for the ""down"" group. So this results in (2n!) / (n! * n!), which is exactly equal to 2n choose n. See [1] which explains permutations with repetion this in general. [Note: We pretty much re-derived the formula for combinations!]
+[1] https://brilliant.org/wiki/permutations-with-repetition/","substantive",""
+"For me, it's the European Packaging and Packaging Waste Regulation (PPWR). It is intended to reduce/recycle waste from shipping packages.
+The eyebrow-raising part is that each country has a registry at which every company that intends to ship goods (independent of size) must sign up. Plus, it has to look for a recycling company. Each year, the company has to give an estimate on what amount of packages it is going to use and pay the recycling cost for it beforehand. Both companies are then required to report that amount to the registry. At the end of the year, they report again, this time the actual amount of packaging used (you get the part of the fee back if you overpaid).
+If you ship to other EU countries, you are required to register in similar registries in every single one of them. Plus, they have their own requirements to your packages and Austria, for example, wants you to appoint a representative who does the paperwork for you and takes liability (the EU is working on making the representative mandatory in general).
+Needless to say that all this stuff does not come for free. The fees for postage, the registry, the adaptions to foreign regulations and all costs associated with it easily get over a thousand Euros. No problem for the big merchants, but I think you all can guess how well this pays off if you only have a handful of shipments from, say, Germany to Austria.
+And that's why shops only ship to selected countries despite the EU having free movement of goods.
+PS: Merchants from outside EU (e. g. Temu) don't have to do any of this.","substantive",""
+"Why does a silly little online game need my email to send a one-time login code? What a strange experience","dismissive",""
+"Similar feeling to https://germantechjobs.de - just with a lesser focus on jobs. Don't quote me on it, but I think the founder of that website works as a talent agent (earning a living, I hope)","substantive",""
+"It must be pretty satisfying to be able to throw that kind of money at stuff you admire.","hype",""
+"I'm happy to see this I see that this provides CEF, Webview and Raw * backbends but it would be nice if there was also a launch in browser option (like WebUI has). To me that has the best tradeoffs if you want to avoid the mess that is webkitgtk but still not ship (and be in charge of updating) a chromium engine with your app.
+* https://docs.deno.com/runtime/desktop/backends/","substantive",""
+"Makes sense. I wonder if the next abstraction after ""agents generate workflows"" is ""agents generate intent, and workflows become a compiled artifact.""
+Feels like manually editing huge JSON graphs is similar to editing compiled code instead of the source.
+Interested to see what representation you landed on.","substantive",""
